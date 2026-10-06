@@ -1,4 +1,4 @@
-## Johan (Jhoven) Fernandez
+## Jhoven Fernandez
 ### Urban data scientist · GeoAI for housing, land use and infrastructure
 
 I build **location-aware machine learning and spatial analysis** around one question: **who gets what in cities?** My work combines GIS, spatial statistics and predictive modeling with California and New York planning policy.

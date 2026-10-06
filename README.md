@@ -18,6 +18,14 @@ I build **location-aware machine learning and spatial analysis** around one ques
 
 ---
 
+### ✍️ Blog: GeoAI for Cities series
+
+- **[Part 1 · What Is GeoAI? Definitions, Foundations and Five Verbs Across U.S. Cities](https://johanarisato.github.io/geoai-for-cities/#part-1)**
+- **[Part 2 · Who Gets the Shade? Ranking New York Neighborhoods for Tree Planting](https://johanarisato.github.io/geoai-for-cities/#part-2)** (working paper)
+- [Research Notes: Questions, Methods and Data](https://johanarisato.github.io/geoai-for-cities/#research) · [All posts](https://johanarisato.github.io/geoai-for-cities/#blog)
+
+---
+
 ### 🗺️ GeoAI for Cities: research projects
 
 Each project has an interactive demo: [shade map](https://johanarisato.github.io/geoai-for-cities/explore/shade.html) · [housing explorer](https://johanarisato.github.io/geoai-for-cities/explore/housing.html) · [CurbCall app](https://johanarisato.github.io/geoai-for-cities/explore/curbcall.html) · [database explorer](https://johanarisato.github.io/geoai-for-cities/explore/database.html)

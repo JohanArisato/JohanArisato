@@ -5,6 +5,7 @@ I build **location-aware machine learning and spatial analysis** around one ques
 
 🎓 B.A. Urban Studies & Planning, UC San Diego · preparing for doctoral study in urban data science
 📍 San Diego, CA · 📫 jhoven.jan98@gmail.com
+🌐 **[GeoAI for Cities research site](https://johanarisato.github.io/geoai-for-cities/)** · [Portfolio](https://johanarisato.github.io/Johan.github.io/)
 
 ---
 
@@ -18,6 +19,8 @@ I build **location-aware machine learning and spatial analysis** around one ques
 ---
 
 ### 🗺️ GeoAI for Cities: research projects
+
+Each project has an interactive demo: [shade map](https://johanarisato.github.io/geoai-for-cities/explore/shade.html) · [housing explorer](https://johanarisato.github.io/geoai-for-cities/explore/housing.html) · [CurbCall app](https://johanarisato.github.io/geoai-for-cities/explore/curbcall.html) · [database explorer](https://johanarisato.github.io/geoai-for-cities/explore/database.html)
 
 | Project | Question | Methods |
 |---|---|---|

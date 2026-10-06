@@ -1,10 +1,10 @@
-## Jhoven Fernandez
+## Johan Fernandez
 ### Urban data scientist · GeoAI for housing, land use and infrastructure
 
 I build **location-aware machine learning and spatial analysis** around one question: **who gets what in cities?** My work combines GIS, spatial statistics and predictive modeling with California and New York planning policy.
 
 🎓 B.A. Urban Studies & Planning, UC San Diego · preparing for doctoral study in urban data science
-📍 San Diego, CA · 📫 jhoven.jan98@gmail.com · [LinkedIn](https://linkedin.com/in/jhoven-fernandez)
+📍 San Diego, CA · 📫 jhoven.jan98@gmail.com
 
 ---
 
